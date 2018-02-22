@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "owl666",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
